@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.vagrant
+.vagrant/
 
 # C extensions
 *.so
